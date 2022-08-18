@@ -5,19 +5,34 @@ Normally every programmer deals with transferring of files. So, the problems the
 3. File Comparison
 
 <img src="A.jpg" width="900" height="500" />
+
 <img src="B.jpg" width="900" height="500" />
+
 <img src="C.jpg" width="900" height="500" />
+
 <img src="D.jpg" width="900" height="500" />
+
 <img src="E.jpg" width="900" height="500" />
+
 <img src="F.jpg" width="900" height="500" />
+
 <img src="G.jpg" width="900" height="500" />
+
 <img src="H.jpg" width="900" height="500" />
+
 <img src="I.jpg" width="900" height="500" />
+
 <img src="J.jpg" width="900" height="500" />
+
 <img src="K.jpg" width="900" height="500" />
+
 <img src="L.jpg" width="900" height="500" />
+
 <img src="M.jpg" width="900" height="500" />
+
 <img src="N.jpg" width="900" height="500" />
+
 <img src="O.jpg" width="900" height="500" />
+
 <img src="P.jpg" width="900" height="500" />
 
