@@ -4,4 +4,4 @@ Normally every programmer deals with transferring of files. So, the problems the
 2. File Splitter/Merger 
 3. File Comparison
  
-<img src="A.jpg" width="9500" height="500" />
+<img src="A.jpg" width="900" height="500" />
