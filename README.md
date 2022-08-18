@@ -4,4 +4,4 @@ Normally every programmer deals with transferring of files. So, the problems the
 2. File Splitter/Merger 
 3. File Comparison
  
-![ImgName](A.jpg=100x100)
+![ImgName](A.jpg =100x100)
